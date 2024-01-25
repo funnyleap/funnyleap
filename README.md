@@ -1,4 +1,3 @@
-📢 Nominate ([@Puliczek](https://github.com/puliczek/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 ---
 
@@ -65,8 +64,4 @@ Got 🏆 Listed in TOP-100 **Google's Hall of Fame** (Bug Bounty Hunters).
 
 My BSc Thesis in computer science was about "**Building remote administration tools (RAT)** in Java and theory of botnets" - An application to control thousands of computers in a hidden way from a remote location.
 
-#### ⚔️ List of CVE reported by me:
-[CVE-2022-0337](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera), [CVE-2021-21123](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21129](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21130](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21131](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21172](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21141](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome)
-
-![](https://hit.yhype.me/github/profile?user_id=12344862)
 
