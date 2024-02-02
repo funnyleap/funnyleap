@@ -4,7 +4,8 @@
 
 
 
-Hi, I'm Mori Yohito. I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
+# Hi, I'm Mori Yohito. 
+I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
 
 👀 What matters to me is that the code is implementable, functional, and readable.
 
@@ -13,7 +14,7 @@ Hi, I'm Mori Yohito. I'm a dedicated programmer on the path to becoming a profes
 👯 I am always open to collaboration and capable of working harmoniously with a team.
 
 📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.
-Reach me out: mpolat4644@gmail.com
+Reach me out: guru1628823.tts@gmail.com
 
 #### My current technology stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
