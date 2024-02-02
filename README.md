@@ -4,23 +4,16 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I am Gru-vector1.
 
 
-I am 🧙 Software Engineer 👾
+Hi, I'm Mori Yohito. I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
 
- I have rich experience with react.
+👀 What matters to me is that the code is implementable, functional, and readable.
 
+🌱 I’m currently focusing on React and Front-end  Technologies.
 
+👯 I am always open to collaboration and capable of working harmoniously with a team.
 
-
-
-
-
---- 
-#### I am 🧙 Software Engineer on full-time.
-
-
-In my view, the best approach is to pick the tech that's just right for the problem.
-
-Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
+📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.
+Reach me out: mpolat4644@gmail.com
 
 #### My current technology stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
