@@ -14,15 +14,18 @@
 - Knowledgeable in UI/UX design principles, ensuring intuitive and user-friendly interactions.
 - Familiarity with CSS preprocessors like Sass and LESS, optimizing stylesheets for maintainability and scalability.
 - Strong understanding of web performance optimization techniques, enhancing site speed and responsiveness.
-
- ### **stack**:
+---
+---
+---
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Next-js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
+---
+---
+---
 💼 **Projects & Contributions**:
 - Developed and maintained several web applications and websites, showcasing innovative designs and robust functionality.
 - Contributed to open-source projects, collaborating with developers worldwide to enhance code quality and drive innovation.
@@ -37,12 +40,10 @@
 - Committed to continuous learning and staying updated with the latest trends and technologies in front-end development.
 - Enthusiastic about attending conferences, workshops, and online courses to expand my skill set and deepen my understanding of emerging technologies.
 
-🌟 **Why GitHub?**:
 
-GitHub is more than just a platform—it's a vibrant community of developers, innovators, and creators. As a front-end developer, I value GitHub's robust version control system, collaborative features, and vast repository of open-source projects. By joining GitHub, I'm excited to contribute to meaningful projects, collaborate with like-minded individuals, and showcase my passion for front-end development.
 
 ---
 
-#Let's connect, collaborate, and build something amazing together! Reach out to me on GitHub funnyleap(https://github.com/funnyleap) and let's bring our ideas to life. Happy coding! 🎉
+### 🌟Let's connect, collaborate, and build something amazing together! Reach out to me on GitHub funnyleap(https://github.com/funnyleap) and let's bring our ideas to life. Happy coding! 🎉
 
 
