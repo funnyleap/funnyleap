@@ -15,7 +15,7 @@
 - Familiarity with CSS preprocessors like Sass and LESS, optimizing stylesheets for maintainability and scalability.
 - Strong understanding of web performance optimization techniques, enhancing site speed and responsiveness.
 
- ####stack:
+ #stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -40,11 +40,8 @@
 🌟 **Why GitHub?**:
 GitHub is more than just a platform—it's a vibrant community of developers, innovators, and creators. As a front-end developer, I value GitHub's robust version control system, collaborative features, and vast repository of open-source projects. By joining GitHub, I'm excited to contribute to meaningful projects, collaborate with like-minded individuals, and showcase my passion for front-end development.
 
-
-
-
 ---
 
-####  Let's connect, collaborate, and build something amazing together! Reach out to me on GitHub funnyleap(https://github.com/funnyleap) and let's bring our ideas to life. Happy coding! 🎉
+#Let's connect, collaborate, and build something amazing together! Reach out to me on GitHub funnyleap(https://github.com/funnyleap) and let's bring our ideas to life. Happy coding! 🎉
 
 
