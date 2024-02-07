@@ -40,6 +40,6 @@
 
 ---
 
-# 🌟Let's connect, collaborate, and build something amazing together! Reach out to me on GitHub funnyleap(https://github.com/funnyleap) and let's bring our ideas to life. Happy coding! 🎉
+ 🌟Let's connect, collaborate, and build something amazing together! Reach out to me on GitHub funnyleap(https://github.com/funnyleap) and let's bring our ideas to life. Happy coding! 🎉
 
 
