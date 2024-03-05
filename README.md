@@ -32,9 +32,9 @@ Here's what you should know about me:
     </td>
       <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
       </a>
-      <br>Python
+      <br>Next.js
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
