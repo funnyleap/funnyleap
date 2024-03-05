@@ -5,15 +5,18 @@
 
 
 # 👋 Hello, World!
- I'm a dedicated front-end developer with a passion for crafting immersive web experiences.
+I'm a versatile full-stack and mobile app developer with a passion for building innovative solutions that push the boundaries of technology. 
+Whether it's crafting intuitive user interfaces for web applications or developing seamless mobile experiences, I thrive on the challenge of bringing ideas to life.
 
- Here's a peek into what sets me apart:
+Here's what you should know about me:
 
 🚀 **Skills & Expertise**:
-- Extensive experience with modern front-end frameworks such as React, Vue.js, and Angular, delivering dynamic and responsive user interfaces.
-- Knowledgeable in UI/UX design principles, ensuring intuitive and user-friendly interactions.
-- Familiarity with CSS preprocessors like Sass and LESS, optimizing stylesheets for maintainability and scalability.
-- Strong understanding of web performance optimization techniques, enhancing site speed and responsiveness.
+- Frontend: Proficient in modern frameworks like React.js, Vue.js, and Angular, adept at creating dynamic and responsive user interfaces.
+- Backend: Experienced in building scalable server-side applications with Node.js, Express.js, and MongoDB, ensuring robust backend functionality.
+- Mobile Development: Skilled in cross-platform mobile app development using React Native, delivering native-like experiences across iOS and Android platforms.
+- Database Management: Knowledgeable in database design and management with MongoDB, MySQL, and PostgreSQL, ensuring efficient data storage and retrieval.
+- UI/UX Design: Familiar with UI/UX design principles and tools, creating visually appealing and user-friendly interfaces that enhance the overall user experience.
+
 
 ### TECHNOLOGY
 
@@ -92,19 +95,18 @@
 
 ---
 💼 **Projects & Contributions**:
-- Developed and maintained several web applications and websites, showcasing innovative designs and robust functionality.
-- Contributed to open-source projects, collaborating with developers worldwide to enhance code quality and drive innovation.
-- Actively involved in the developer community, sharing insights, participating in forums, and mentoring aspiring developers.
+- Developed and deployed a variety of web applications and mobile apps, showcasing my ability to deliver high-quality software solutions.
+- Actively contributed to open-source projects, collaborating with developers worldwide to improve code quality and drive innovation in the tech community.
+- Participated in hackathons and coding challenges, demonstrating my ability to think creatively and problem-solve under pressure.
 
 🔧 **Tools & Technologies**:
-- Proficient in version control systems such as Git and GitHub, facilitating seamless collaboration and code management.
-- Experienced in using build tools like Webpack and Gulp, automating repetitive tasks and streamlining development workflows.
-- Familiar with testing frameworks such as Jest and React Testing Library, ensuring code reliability and performance.
+- Proficient in version control systems like Git and GitHub, facilitating efficient collaboration and code management.
+- Experienced in using build tools such as Webpack and Gulp, automating repetitive tasks and optimizing development workflows.
+- Familiar with testing frameworks like Jest and React Testing Library, ensuring code reliability and performance across different platforms.
 
 📚 **Learning & Growth**:
-- Committed to continuous learning and staying updated with the latest trends and technologies in front-end development.
-- Enthusiastic about attending conferences, workshops, and online courses to expand my skill set and deepen my understanding of emerging technologies.
-
+-Committed to continuous learning and staying updated with the latest trends and technologies in full-stack and mobile app development.
+- Enthusiastic about attending workshops, conferences, and online courses to expand my skill set and deepen my understanding of emerging technologies.
 
 
 ---
