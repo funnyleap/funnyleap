@@ -30,6 +30,12 @@ Here's what you should know about me:
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue.js
     </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/next.js.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
@@ -45,12 +51,6 @@ Here's what you should know about me:
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
