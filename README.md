@@ -60,16 +60,16 @@ Here's what you should know about me:
   <tr>
          <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=react native" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+      <br>React Native
     </td>
       </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=swift width="48" height="48" alt="WordPress" />
+      <br>Swift
     </td>   
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="PHP" />
+      <br>Flutter
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
